@@ -1,4 +1,5 @@
-[Master](https://github.com/user-attachments/assets/3ed31432-9d60-4bc4-af2e-f3c558f250d6)
+
+![MainCover](https://github.com/user-attachments/assets/de9e3a1c-11e4-43df-9780-f65f5a0991e3)
 
 <h2 align="center">Hi , I'm Osama Kandel  </h2>
 
@@ -10,6 +11,7 @@
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama2262&show_icons=true&theme=dark&locale=en&layout=compact" alt="osama2262" /></p>
   <p> - 👀 I am an eager person for anything related to technology or computers because I was established in a good environment initialized for this and entering the computer science field at the <a href="https://www.facebook.com/CIS.EDU1">New Cairo Academy</a> was the perfect start in my career life Academy I am trying to enhance my skills by throwing myself into various field </p>
+  
 - 🔭 I’m currently working as a Freelancer software tester in [Utest](https://www.utest.com/)
 
 - 📫 How to reach me **Kandel.2262@gmail.com**
@@ -52,6 +54,5 @@ h/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osama2262&style=plastic" alt="osama2262" /> </p>
-
 
 
