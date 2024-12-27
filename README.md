@@ -46,13 +46,15 @@ h/devicons/devicon@latest/icons/python/python-original.svg" />
           
   
   <h3 align="left">DataBase:</h3>
+   <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  
+ 
         
    </p>
 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osama2262&style=plastic" alt="osama2262" /> </p>
+
 
 
