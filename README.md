@@ -6,7 +6,7 @@
 
  
 
-<h3 align="center">Munual/Automation Software tester</h3>
+<h3 align="center">Manual/Automation Software tester</h3>
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama2262&show_icons=true&theme=dark&locale=en&layout=compact" alt="osama2262" /></p>
